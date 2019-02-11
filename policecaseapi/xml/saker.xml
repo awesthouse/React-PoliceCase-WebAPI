@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<saker>
+  <sak>
+    <id>3678940</id>
+    <name>Butikktyveri Steinkjær AMFI-senter</name>
+    <policedistrict>10</policedistrict>
+    <description></description>
+    <datecreated>01-12-2018</datecreated>
+    <report>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus rhoncus ante non nisl semper, non auctor tortor elementum. Cras lectus metus, placerat ac risus vel, tincidunt suscipit odio. Nulla sapien purus, rutrum et pulvinar nec, interdum vitae odio. Nam quis ipsum sodales, volutpat orci vitae, rhoncus lorem. Morbi sit amet cursus magna. Phasellus ex libero, tempor ut lacus aliquam, cursus ullamcorper magna. Praesent eleifend, tortor vitae dignissim egestas, ex enim vestibulum enim, id ornare mi eros feugiat turpis. Cras posuere tellus ac rutrum aliquet. Fusce quis tristique elit. Donec congue urna eu posuere maximus. Curabitur fermentum dolor a ipsum euismod consequat. Aliquam erat volutpat. Curabitur eget leo est.</report>
+    <victims>Jon Mikkelsen, 11097689302</victims>
+    <suspects></suspects>
+    <offenders>Mikael Olsen, 31088975362</offenders>
+    <issolved>1</issolved>
+    <category>Tyveri</category>
+  </sak>
+  <sak>
+    <id>3678942</id>
+    <name>Trafikkhendelse Smestad </name>
+    <category>Trafikkhendelse</category>
+    <description>Trafikkhendelse</description>
+    <datecreated>03-12-2018</datecreated>
+    <policedistrict>6</policedistrict>
+    <report>Phasellus elit risus, sagittis in massa in, eleifend convallis ante. Suspendisse ut fermentum nibh. Donec at eleifend nunc. Cras eleifend libero porttitor interdum ornare. Donec blandit mattis odio vitae sodales. Sed feugiat ligula vel nulla mattis, quis congue eros volutpat. Fusce ex nisl, scelerisque vel placerat ut, pulvinar ut nisl. Nullam lacinia dolor vel dictum interdum. Donec rutrum mollis dolor, id dignissim nibh interdum eu. In ac viverra mauris, porta placerat enim. Sed hendrerit imperdiet nunc eu viverra. Quisque ligula quam, vestibulum sit amet viverra at, gravida lobortis ligula. Sed ullamcorper pharetra nisl in placerat. Quisque eget nisl orci. Nullam feugiat, velit ac faucibus feugiat, sapien velit dapibus orci, nec aliquet nisi massa et turpis.</report>
+    <victims>Helene Tran, 060987</victims>
+    <suspects></suspects>
+    <offenders>Atle Andersen</offenders>
+    <issolved>1</issolved>
+  </sak>
+  <sak>
+    <id>3678943</id>
+    <name>Narkotikaovertredelse, Brugata Oslo</name>
+    <category>Narkotikaovertredelse</category>
+    <description>Besittelse av narkotika</description>
+    <datecreated>06-12-2018</datecreated>
+    <policedistrict>6</policedistrict>
+    <report>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</report>
+    <victims></victims>
+    <suspects></suspects>
+    <offenders>Martin Sørum, 13067489372</offenders>
+    <issolved>0</issolved>
+  </sak>
+  <sak>
+    <id>3678944</id>
+    <name>Overfall, Bergen sentrum</name>
+    <category>Krenkelse og skade mot kropp og liv</category>
+    <description>Overfall, ung mann natt til fredag</description>
+    <datecreated>07-12-2018</datecreated>
+    <policedistrict>11</policedistrict>
+    <report>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</report>
+    <victims>Sohrab Mohamed, 24059683649</victims>
+    <suspects></suspects>
+    <offenders></offenders>
+    <issolved>0</issolved>
+  </sak>
+</saker>

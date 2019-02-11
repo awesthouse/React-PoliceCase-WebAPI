@@ -1,0 +1,14 @@
+/Users/Westhouse/Documents/BID HØST18/Webutvikling 3/Innlevering2/api-test/policecaseapi/bin/Debug/netcoreapp2.1/policecaseapi.deps.json
+/Users/Westhouse/Documents/BID HØST18/Webutvikling 3/Innlevering2/api-test/policecaseapi/bin/Debug/netcoreapp2.1/policecaseapi.runtimeconfig.json
+/Users/Westhouse/Documents/BID HØST18/Webutvikling 3/Innlevering2/api-test/policecaseapi/bin/Debug/netcoreapp2.1/policecaseapi.runtimeconfig.dev.json
+/Users/Westhouse/Documents/BID HØST18/Webutvikling 3/Innlevering2/api-test/policecaseapi/bin/Debug/netcoreapp2.1/policecaseapi.dll
+/Users/Westhouse/Documents/BID HØST18/Webutvikling 3/Innlevering2/api-test/policecaseapi/bin/Debug/netcoreapp2.1/policecaseapi.pdb
+/Users/Westhouse/Documents/BID HØST18/Webutvikling 3/Innlevering2/api-test/policecaseapi/obj/Debug/netcoreapp2.1/policecaseapi.csprojAssemblyReference.cache
+/Users/Westhouse/Documents/BID HØST18/Webutvikling 3/Innlevering2/api-test/policecaseapi/obj/Debug/netcoreapp2.1/policecaseapi.csproj.CoreCompileInputs.cache
+/Users/Westhouse/Documents/BID HØST18/Webutvikling 3/Innlevering2/api-test/policecaseapi/obj/Debug/netcoreapp2.1/policecaseapi.RazorAssemblyInfo.cache
+/Users/Westhouse/Documents/BID HØST18/Webutvikling 3/Innlevering2/api-test/policecaseapi/obj/Debug/netcoreapp2.1/policecaseapi.RazorAssemblyInfo.cs
+/Users/Westhouse/Documents/BID HØST18/Webutvikling 3/Innlevering2/api-test/policecaseapi/obj/Debug/netcoreapp2.1/policecaseapi.AssemblyInfoInputs.cache
+/Users/Westhouse/Documents/BID HØST18/Webutvikling 3/Innlevering2/api-test/policecaseapi/obj/Debug/netcoreapp2.1/policecaseapi.AssemblyInfo.cs
+/Users/Westhouse/Documents/BID HØST18/Webutvikling 3/Innlevering2/api-test/policecaseapi/obj/Debug/netcoreapp2.1/policecaseapi.RazorTargetAssemblyInfo.cache
+/Users/Westhouse/Documents/BID HØST18/Webutvikling 3/Innlevering2/api-test/policecaseapi/obj/Debug/netcoreapp2.1/policecaseapi.dll
+/Users/Westhouse/Documents/BID HØST18/Webutvikling 3/Innlevering2/api-test/policecaseapi/obj/Debug/netcoreapp2.1/policecaseapi.pdb

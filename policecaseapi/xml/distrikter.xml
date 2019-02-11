@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<distrikter>
+    <distrikt>
+        <id>1</id>
+        <name>Agder politidistrikt</name>
+    </distrikt>
+    <distrikt>
+        <id>2</id>
+        <name>Finnmark politidistrikt</name>
+    </distrikt>
+    <distrikt>
+        <id>3</id>
+        <name>Innlandet politidistrikt</name>
+    </distrikt>
+    <distrikt>
+        <id>4</id>
+        <name>Møre og Romsdal politidistrikt</name>
+    </distrikt>
+    <distrikt>
+        <id>5</id>
+        <name>Nordland politidistrikt</name>
+    </distrikt>
+    <distrikt>
+        <id>6</id>
+        <name>Oslo politidistrikt</name>
+    </distrikt>
+    <distrikt>
+        <id>7</id>
+        <name>Sør-Vest politidistrikt</name>
+    </distrikt>
+    <distrikt>
+        <id>8</id>
+        <name>Sør-Øst politidistrikt</name>
+    </distrikt>
+    <distrikt>
+        <id>9</id>
+        <name>Troms politidistrikt</name>
+    </distrikt>
+    <distrikt>
+        <id>10</id>
+        <name>Trøndelag politidistrikt</name>
+    </distrikt>
+    <distrikt>
+        <id>11</id>
+        <name>Vest politidistrikt</name>
+    </distrikt>
+    <distrikt>
+        <id>12</id>
+        <name>Øst politidistrikt</name>
+    </distrikt>
+    <distrikt>
+        <id>13</id>
+        <name>Kripos</name>
+    </distrikt>
+    <distrikt>
+        <id>14</id>
+        <name>Politiets utlendingsenhet</name>
+    </distrikt>
+    <distrikt>
+        <id>15</id>
+        <name>Politihøgskolen</name>
+    </distrikt>
+    <distrikt>
+        <id>16</id>
+        <name>Utrykningspolitiet</name>
+    </distrikt>
+    <distrikt>
+        <id>17</id>
+        <name>ØKOKRIM</name>
+    </distrikt>
+    <distrikt>
+        <id>18</id>
+        <name>Politiets fellestjenester</name>
+    </distrikt>
+    <distrikt>
+        <id>19</id>
+        <name>Politiets IKT-tjenester</name>
+    </distrikt>
+    <distrikt>
+        <id>20</id>
+        <name>Nasjonalt ID-senter</name>
+    </distrikt>
+    <distrikt>
+        <id>21</id>
+        <name>Namsfogden</name>
+    </distrikt>
+    <distrikt>
+        <id>22</id>
+        <name>Grensekommissæren</name>
+    </distrikt>
+</distrikter>
